@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **[TerminalApp](https://github.com/your-repo-link)** & **[PinPhoto](https://github.com/your-repo-link)**  
+- 🔭 I’m currently working on **[TerminalApp](https://github.com/asuolt/TerminalWeb)** & **[PinPhoto](https://github.com/asuolt/PinPhotoGrid)** & **[Boostrap Portfolio](https://github.com/asuolt/Asoult-BoostrapPortfolioWebsite)**  
 - 🌱 Learning **TypeScript, React, TailwindCSS**  
 - 💬 Ask me about **Web Development & UI/UX Design**  
-- 📫 Reach me at: **[Instagram](https://www.instagram.com/asuoltt)**  
+- 📫 Reach me at: **[Instagram](https://www.instagram.com/bbekirersoy)**  
 
 ---
 
@@ -37,7 +37,7 @@
 ---
 
 ### 🌎 Let's Connect!  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asuoltt)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bbekirersoy)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/asuolt)  
 
 ---
