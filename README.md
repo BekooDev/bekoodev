@@ -31,8 +31,8 @@
 ---
 
 ### 📌 Featured Projects  
-🚀 **[TerminalApp](https://github.com/your-repo-link)** – A custom CLI-style web app.  
-📷 **[PinPhoto](https://github.com/your-repo-link)** – A Pinterest-inspired photo grid project.  
+🚀 **[TerminalApp](https://github.com/TerminalWeb)** – A custom CLI-style web app.  
+📷 **[PinPhoto](https://github.com/PinPhotoGrid)** – A Pinterest-inspired photo grid project.  
 
 ---
 
