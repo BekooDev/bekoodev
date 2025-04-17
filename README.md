@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bekir(BekoDev)</h1>
 <h3 align="center">A passionate developer constantly learning and building cool stuff!</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
 ---
 
 ### 🚀 About Me  
