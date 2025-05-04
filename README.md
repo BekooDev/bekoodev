@@ -8,4 +8,4 @@
 - 🌱 Learning **TypeScript, React, TailwindCSS**  
 - 💬 Ask me about **Web Development & UI/UX Design**  
 - 📫 Reach me at: )
-//**[Instagram](https://www.instagram.com/bbekirersoy)**  
+**[Instagram](https://www.instagram.com/bbekirersoy)**  
