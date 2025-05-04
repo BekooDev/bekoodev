@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Desthina</h1>
+<h1 align="start">Desthina</h1>
 <a align="start">A passionate developer constantly learning and building cool stuff!</a>
 
 [================]
