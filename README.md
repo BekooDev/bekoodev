@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desthina</h1>
-<h3 align="center">A passionate developer constantly learning and building cool stuff!</h3>
+<a align="start">A passionate developer constantly learning and building cool stuff!</a>
 
 [================]
 
