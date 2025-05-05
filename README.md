@@ -4,8 +4,9 @@
 [================]
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **[TerminalApp](https://github.com/Desthina/TerminalWeb)** & **[PinPhoto](https://github.com/Desthina/PinPhotoGrid)** & **[Boostrap Portfolio](https://github.com/Desthina/BoostrapPortfolioWebsite)**  
-- 🌱 Learning **TypeScript, React, TailwindCSS**  
+- 🔭 I’m currently working on **[TerminalApp](https://github.com/Desthina/TerminalWeb)** & **[PinPhoto](https://github.com/Desthina/PinPhotoGrid)** & **[Boostrap Portfolio](https://github.com/Desthina/BoostrapPortfolioWebsite)**
+- My Personal Web Page : **[Website](https://desthina.netlify.app)**
+- 🌱 Learning **TypeScript, React, TailwindCSS**
 - 💬 Ask me about **Web Development & UI/UX Design**  
 - 📫 Reach me at:
 **[Instagram](https://www.instagram.com/bbekirersoy)**  
